@@ -8,7 +8,7 @@
   width="170"
 />
 
-![License](https://img.shields.io/github/license/PramudityaF/nextjs-template?color=%231AD7A4)
+![License](https://img.shields.io/github/license/alvinzanuaputra/nextjs-template?color=%231AD7A4)
 
 NextJS project boilerplate that sets rules for your project.
 
@@ -39,7 +39,7 @@ Here are some of the major benefits of using the template:
 Initialize a Next.js project with [template](https://nextjs.org/docs/app/api-reference/create-next-app):
 
 ```sh
-npx create-next-app@latest -e https://github.com/PramudityaF/nextjs-template
+npx create-next-app@latest -e https://github.com/alvinzanuaputra/nextjs-template
 ```
 
 ## 💿 Manual Installation
